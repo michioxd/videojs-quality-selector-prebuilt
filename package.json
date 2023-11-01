@@ -2,7 +2,6 @@
   "name": "@silvermine/videojs-quality-selector",
   "version": "1.3.0",
   "description": "video.js plugin for selecting a video quality or resolution",
-  "main": "src/js/index.js",
   "author": "Jeremy Thomerson",
   "license": "MIT",
   "repository": {
